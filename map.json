@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/app\/board\/o9J_kvNVjR4=\/"
+                 "value":"https:\/\/ambient-innovation.com\/unternehmen\/teams\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ellisonleao.github.io\/clumsy-bird\/"
+                 "value":"https:\/\/pacman.platzh1rsch.ch\/"
                 }],
          "type":"tilelayer",
          "visible":true,
